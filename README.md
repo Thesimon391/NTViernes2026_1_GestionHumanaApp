@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Proyecto Integrador - Contratación
 
 ## Módulo
@@ -16,3 +18,9 @@ HU 5.3 Agrupación y resumen de datos
 
 Camilo
 Jaramillo
+=======
+Hola soy Angel Lozano
+
+# NTViernes2026_1_GestionHumanaApp
+
+Proyecto integrador de NUEVAS TECNOLOGIAS
