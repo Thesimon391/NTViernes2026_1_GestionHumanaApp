@@ -60,12 +60,22 @@ def limpiar_postulaciones(
 
     # Limpiar fechas
     if "fecha_postulacion" in df.columns:
-      df["fecha_postulacion"] = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
-      df = df[df["fecha_postulacion"].notna()]
-      df["fecha_postulacion"] = df["fecha_postulacion"].dt.strftime("%Y-%m-%d")
+        df["fecha_postulacion"] = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
+        df = df[df["fecha_postulacion"].notna()]
+        df["fecha_postulacion"] = df["fecha_postulacion"].dt.strftime("%Y-%m-%d")
 
     # Eliminar duplicados
     df = df.drop_duplicates()
+
+    # Convertir IDs a enteros
+    if "id" in df.columns:
+        df["id"] = df["id"].astype(int)
+
+    if "id_postulante" in df.columns:
+        df["id_postulante"] = df["id_postulante"].astype(int)
+
+    if "id_vacante" in df.columns:
+        df["id_vacante"] = df["id_vacante"].astype(int)
 
     print("\n=== DATASET LIMPIO ===")
     print(df.head())

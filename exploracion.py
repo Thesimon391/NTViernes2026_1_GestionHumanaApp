@@ -8,6 +8,9 @@ def explorar_postulaciones(ruta_archivo="data/postulacion_limpio.csv"):
         print(f"No se encontró el archivo: {ruta_archivo}")
         return
 
+    if "fecha_postulacion" in df.columns:
+        df["fecha_postulacion"] = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
+
     print("=== EXPLORACIÓN DEL DATASET DE POSTULACIÓN ===")
 
     print("\n1. Primeras filas")
@@ -64,9 +67,8 @@ def explorar_postulaciones(ruta_archivo="data/postulacion_limpio.csv"):
 
     if "fecha_postulacion" in df.columns:
         print("\n15. Rango de fechas de postulación")
-        fechas = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
-        print("Fecha mínima:", fechas.min())
-        print("Fecha máxima:", fechas.max())
+        print("Fecha mínima:", df["fecha_postulacion"].min())
+        print("Fecha máxima:", df["fecha_postulacion"].max())
 
     columnas_numericas = df.select_dtypes(include=["int64", "float64"]).columns.tolist()
     columnas_categoricas = df.select_dtypes(include=["object"]).columns.tolist()
