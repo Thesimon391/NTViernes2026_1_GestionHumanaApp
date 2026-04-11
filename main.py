@@ -10,4 +10,5 @@ df = pd.DataFrame(datos_simulados)
 df.to_csv("data/postulacion_sucio.csv", index=False)
 
 print("Archivo generado: data/postulacion_sucio.csv")
+print("Cantidad de registros generados:", len(df))
 print(df.head())
