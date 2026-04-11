@@ -21,24 +21,28 @@ def generar_simulacion(cantidad):
             "id_vacante": random.randint(1, 10)
         }
 
-        probabilidadError = random.random()
+        probabilidad_error = random.random()
 
-        if probabilidadError < 0.1:
+        if probabilidad_error < 0.1:
             postulacion["estado"] = " " + postulacion["estado"] + " "
-        elif probabilidadError < 0.2:
+        elif probabilidad_error < 0.2:
             postulacion["medio_postulacion"] = "linked in"
-        elif probabilidadError < 0.3:
+        elif probabilidad_error < 0.3:
             postulacion["id"] = random.choice([-1, 0, -5])
-        elif probabilidadError < 0.4:
+        elif probabilidad_error < 0.4:
             postulacion["fecha_postulacion"] = fecha_base.strftime("%d/%m")
-        elif probabilidadError < 0.5:
+        elif probabilidad_error < 0.5:
             postulacion["nivel_estudios"] = None
-        elif probabilidadError < 0.6:
+        elif probabilidad_error < 0.6:
             postulacion["estado"] = "EN REVISION"
-        elif probabilidadError < 0.7:
+        elif probabilidad_error < 0.7:
             postulacion["id_postulante"] = None
-        elif probabilidadError < 0.8:
+        elif probabilidad_error < 0.8:
             postulacion["id_vacante"] = 0
+        elif probabilidad_error < 0.9:
+            postulacion["nivel_estudios"] = ""
+        else:
+            postulacion["medio_postulacion"] = "facebook "
 
         simulaciones.append(postulacion)
 

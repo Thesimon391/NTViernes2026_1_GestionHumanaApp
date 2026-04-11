@@ -1,8 +1,14 @@
 import pandas as pd
 
-def limpiar_postulaciones(ruta_entrada="data/postulacion_sucio.csv", ruta_salida="data/postulacion_limpio.csv"):
-    # Leer archivo
-    df = pd.read_csv(ruta_entrada)
+def limpiar_postulaciones(
+    ruta_entrada="data/postulacion_sucio.csv",
+    ruta_salida="data/postulacion_limpio.csv"
+):
+    try:
+        df = pd.read_csv(ruta_entrada)
+    except FileNotFoundError:
+        print(f"No se encontró el archivo: {ruta_entrada}")
+        return None
 
     print("=== DATASET ORIGINAL ===")
     print(df.head())
@@ -27,11 +33,9 @@ def limpiar_postulaciones(ruta_entrada="data/postulacion_sucio.csv", ruta_salida
 
     if "estado" in df.columns:
         df["estado"] = df["estado"].replace({
-        "en revision": "en revisión",
-        "en revision ": "en revisión",
-        "aceptado ": "aceptado",
-        "EN REVISION": "en revisión"
-    })
+            "en revision": "en revisión",
+            "aceptado ": "aceptado"
+        })
 
     # Convertir columnas numéricas
     for col in ["id", "id_postulante", "id_vacante"]:
@@ -49,9 +53,9 @@ def limpiar_postulaciones(ruta_entrada="data/postulacion_sucio.csv", ruta_salida
     if "id_vacante" in df.columns:
         df = df[df["id_vacante"] > 0]
 
-    # Nivel de estudios nulo
+    # Tratar nulos en nivel de estudios
     if "nivel_estudios" in df.columns:
-        df["nivel_estudios"] = df["nivel_estudios"].replace("none", pd.NA)
+        df["nivel_estudios"] = df["nivel_estudios"].replace(["none", "nan"], pd.NA)
         df["nivel_estudios"] = df["nivel_estudios"].fillna("no especificado")
 
     # Limpiar fechas
