@@ -21,12 +21,6 @@ Este módulo corresponde al subproceso de **Postulación** dentro del proyecto i
 - **HU 4.3** Transformación de datos con `query()` de Pandas (Postulación)
 - **HU 5.3** Agrupación y resumen de datos (Postulación)
 
-### Requisitos
-
-- Python 3.x
-- pandas
-- numpy
-
 ### Estructura del módulo
 
 - `main.py`: genera el dataset sintético y exporta a CSV y JSON
@@ -35,6 +29,12 @@ Este módulo corresponde al subproceso de **Postulación** dentro del proyecto i
 - `exploracion.py`: realiza análisis exploratorio del dataset limpio
 - `transformacion.py`: aplica filtros con `query()`
 - `resumen.py`: agrupa y resume los datos con `groupby()`
+
+### Requisitos
+
+- Python 3.x
+- pandas
+- numpy
 
 ### Ejecución
 
@@ -46,7 +46,4 @@ python limpieza.py
 python exploracion.py
 python transformacion.py
 python resumen.py
-### Resultado
-
-El módulo de Postulación permite generar, limpiar, explorar, transformar y resumir datos dentro del proceso de contratación, dejando un flujo completo para análisis con Python y Pandas.
 ```
