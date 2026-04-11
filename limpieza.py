@@ -60,8 +60,9 @@ def limpiar_postulaciones(
 
     # Limpiar fechas
     if "fecha_postulacion" in df.columns:
-        df["fecha_postulacion"] = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
-        df = df[df["fecha_postulacion"].notna()]
+      df["fecha_postulacion"] = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
+      df = df[df["fecha_postulacion"].notna()]
+      df["fecha_postulacion"] = df["fecha_postulacion"].dt.strftime("%Y-%m-%d")
 
     # Eliminar duplicados
     df = df.drop_duplicates()

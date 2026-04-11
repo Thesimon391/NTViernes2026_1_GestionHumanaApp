@@ -1,606 +1,591 @@
 id,fecha_postulacion,estado,medio_postulacion,nivel_estudios,id_postulante,id_vacante
-1,2026-03-20,entrevista,referencia,no especificado,20.0,6
-2,2026-03-17,aceptado,linkedin,secundaria,3.0,4
-3,2026-03-09,en revisión,linkedin,maestria,6.0,1
-4,2026-03-11,en revisión,linkedin,maestria,5.0,10
-5,2026-03-29,en revisión,linkedin,no especificado,11.0,7
-7,2026-03-04,postulado,referencia,no especificado,19.0,2
-9,2026-03-07,postulado,facebook,tecnico,12.0,1
-11,2026-02-23,entrevista,linkedin,universitario,1.0,7
-12,2026-03-10,rechazado,facebook,tecnico,15.0,3
-14,2026-03-21,en revisión,facebook,universitario,8.0,1
-15,2026-03-04,en revisión,referencia,no especificado,20.0,7
-18,2026-03-06,rechazado,linkedin,secundaria,7.0,3
-19,2026-03-14,rechazado,linkedin,no especificado,6.0,6
-20,2026-03-15,en revisión,página web,maestria,14.0,10
-22,2026-03-19,entrevista,facebook,secundaria,1.0,3
-23,2026-02-13,aceptado,facebook,tecnico,18.0,1
-26,2026-02-18,en revisión,linkedin,maestria,7.0,1
-27,2026-03-10,aceptado,linkedin,no especificado,1.0,6
-28,2026-03-27,rechazado,linkedin,no especificado,3.0,1
-30,2026-02-18,entrevista,página web,no especificado,11.0,8
-32,2026-02-27,rechazado,página web,no especificado,3.0,3
-34,2026-02-16,rechazado,referencia,universitario,2.0,9
-36,2026-03-06,entrevista,linkedin,universitario,4.0,8
-37,2026-03-05,entrevista,linkedin,no especificado,14.0,5
-39,2026-02-26,en revisión,linkedin,universitario,11.0,8
-41,2026-04-09,en revisión,linkedin,secundaria,20.0,4
-42,2026-04-06,postulado,facebook,maestria,12.0,1
-45,2026-03-02,entrevista,facebook,universitario,20.0,10
-46,2026-03-08,en revisión,referencia,secundaria,17.0,10
-47,2026-02-12,en revisión,página web,no especificado,19.0,9
-48,2026-03-03,postulado,facebook,tecnico,18.0,3
-55,2026-03-11,en revisión,facebook,secundaria,12.0,7
-56,2026-03-27,entrevista,linkedin,tecnico,9.0,6
-57,2026-03-29,en revisión,facebook,no especificado,19.0,4
-58,2026-02-16,en revisión,facebook,secundaria,9.0,7
-62,2026-02-28,en revisión,linkedin,secundaria,11.0,5
-63,2026-03-29,postulado,linkedin,maestria,3.0,9
-64,2026-04-02,en revisión,linkedin,universitario,16.0,8
-65,2026-04-06,en revisión,referencia,universitario,19.0,2
-66,2026-03-20,aceptado,linkedin,secundaria,5.0,7
-67,2026-03-04,en revisión,computrabajo,tecnico,14.0,8
-69,2026-02-25,en revisión,página web,no especificado,8.0,1
-70,2026-02-21,en revisión,referencia,universitario,16.0,10
-71,2026-02-11,en revisión,computrabajo,universitario,8.0,4
-72,2026-04-05,entrevista,linkedin,no especificado,18.0,6
-75,2026-02-13,aceptado,linkedin,universitario,6.0,3
-76,2026-03-17,entrevista,linkedin,tecnico,4.0,1
-77,2026-03-27,en revisión,referencia,secundaria,20.0,7
-78,2026-02-23,rechazado,referencia,no especificado,16.0,9
-79,2026-03-12,rechazado,computrabajo,no especificado,1.0,8
-82,2026-02-18,aceptado,facebook,universitario,2.0,6
-83,2026-02-24,en revisión,página web,universitario,3.0,3
-84,2026-03-13,en revisión,página web,universitario,15.0,9
-86,2026-02-10,postulado,página web,universitario,14.0,2
-87,2026-03-25,entrevista,referencia,no especificado,13.0,3
-89,2026-03-23,rechazado,linkedin,no especificado,9.0,10
-90,2026-03-10,entrevista,linkedin,tecnico,13.0,7
-91,2026-02-12,rechazado,facebook,secundaria,7.0,9
-92,2026-03-18,postulado,linkedin,tecnico,7.0,9
-93,2026-03-22,en revisión,linkedin,tecnico,9.0,2
-94,2026-02-25,entrevista,linkedin,secundaria,20.0,5
-95,2026-02-19,en revisión,facebook,universitario,11.0,7
-96,2026-04-06,en revisión,referencia,tecnico,14.0,2
-97,2026-03-20,en revisión,linkedin,maestria,2.0,10
-100,2026-03-13,en revisión,linkedin,tecnico,16.0,3
-101,2026-03-10,en revisión,referencia,universitario,19.0,8
-103,2026-02-21,rechazado,linkedin,no especificado,12.0,10
-105,2026-03-02,aceptado,facebook,universitario,6.0,3
-106,2026-03-03,rechazado,linkedin,universitario,11.0,1
-108,2026-03-05,postulado,facebook,secundaria,7.0,7
-109,2026-03-12,postulado,facebook,tecnico,17.0,3
-110,2026-04-07,en revisión,linkedin,tecnico,6.0,4
-113,2026-03-24,en revisión,linkedin,universitario,6.0,10
-114,2026-04-10,rechazado,linkedin,tecnico,6.0,7
-116,2026-03-15,en revisión,facebook,universitario,16.0,9
-117,2026-04-04,entrevista,facebook,secundaria,11.0,6
-118,2026-02-18,aceptado,linkedin,no especificado,2.0,2
-119,2026-03-10,entrevista,página web,no especificado,7.0,7
-120,2026-03-20,aceptado,facebook,tecnico,17.0,5
-121,2026-04-07,rechazado,linkedin,tecnico,20.0,1
-123,2026-02-18,entrevista,facebook,no especificado,17.0,2
-124,2026-03-10,postulado,facebook,tecnico,10.0,8
-126,2026-02-15,entrevista,computrabajo,no especificado,3.0,8
-128,2026-02-27,aceptado,facebook,no especificado,16.0,5
-129,2026-02-22,en revisión,facebook,tecnico,6.0,1
-130,2026-04-10,en revisión,computrabajo,maestria,9.0,1
-131,2026-04-01,en revisión,facebook,tecnico,6.0,1
-133,2026-03-05,postulado,facebook,tecnico,16.0,4
-135,2026-04-01,en revisión,facebook,secundaria,4.0,5
-137,2026-03-24,rechazado,linkedin,maestria,2.0,5
-138,2026-03-30,entrevista,linkedin,maestria,12.0,5
-139,2026-03-16,aceptado,facebook,tecnico,11.0,10
-140,2026-02-13,entrevista,linkedin,maestria,16.0,10
-141,2026-03-30,entrevista,referencia,no especificado,2.0,10
-142,2026-03-06,en revisión,referencia,no especificado,8.0,1
-143,2026-03-05,en revisión,linkedin,universitario,7.0,10
-147,2026-03-27,rechazado,computrabajo,secundaria,19.0,7
-148,2026-03-05,en revisión,página web,universitario,14.0,3
-149,2026-02-14,aceptado,facebook,tecnico,17.0,7
-150,2026-03-11,rechazado,linkedin,tecnico,14.0,6
-155,2026-03-30,rechazado,facebook,secundaria,12.0,2
-156,2026-03-02,entrevista,linkedin,no especificado,5.0,2
-157,2026-03-16,aceptado,página web,no especificado,2.0,5
-159,2026-03-02,postulado,computrabajo,no especificado,7.0,9
-160,2026-03-16,en revisión,página web,secundaria,2.0,3
-161,2026-03-20,entrevista,referencia,no especificado,15.0,3
-162,2026-03-16,aceptado,facebook,secundaria,16.0,2
-163,2026-03-27,en revisión,referencia,secundaria,9.0,7
-164,2026-03-07,entrevista,facebook,no especificado,3.0,3
-165,2026-04-01,en revisión,computrabajo,maestria,16.0,9
-166,2026-03-21,rechazado,linkedin,universitario,14.0,6
-169,2026-03-06,postulado,facebook,secundaria,9.0,2
-171,2026-02-15,rechazado,página web,tecnico,4.0,3
-172,2026-02-24,entrevista,linkedin,maestria,16.0,10
-174,2026-04-07,en revisión,facebook,no especificado,12.0,6
-175,2026-04-06,en revisión,linkedin,universitario,15.0,1
-176,2026-04-10,entrevista,página web,no especificado,18.0,7
-177,2026-02-10,en revisión,página web,maestria,13.0,2
-178,2026-04-06,postulado,linkedin,maestria,17.0,5
-179,2026-02-23,entrevista,computrabajo,no especificado,14.0,8
-180,2026-02-10,aceptado,linkedin,secundaria,19.0,5
-186,2026-04-09,postulado,facebook,maestria,8.0,1
-187,2026-03-05,rechazado,linkedin,maestria,19.0,2
-188,2026-04-03,aceptado,linkedin,universitario,8.0,10
-189,2026-04-07,en revisión,facebook,tecnico,7.0,5
-191,2026-02-13,en revisión,facebook,maestria,4.0,4
-192,2026-02-22,postulado,computrabajo,no especificado,16.0,9
-195,2026-02-14,en revisión,referencia,maestria,1.0,8
-197,2026-03-29,en revisión,linkedin,tecnico,9.0,6
-198,2026-02-27,rechazado,computrabajo,no especificado,17.0,4
-199,2026-03-29,postulado,computrabajo,no especificado,8.0,5
-201,2026-03-31,rechazado,facebook,tecnico,4.0,9
-202,2026-03-10,rechazado,linkedin,tecnico,18.0,9
-203,2026-04-03,rechazado,facebook,maestria,4.0,2
-206,2026-02-22,postulado,computrabajo,no especificado,5.0,4
-209,2026-03-04,en revisión,página web,secundaria,18.0,9
-211,2026-04-10,aceptado,referencia,no especificado,6.0,7
-212,2026-02-18,en revisión,página web,no especificado,17.0,5
-214,2026-03-08,en revisión,computrabajo,secundaria,3.0,1
-215,2026-03-17,aceptado,linkedin,maestria,3.0,1
-216,2026-04-03,en revisión,facebook,tecnico,8.0,7
-218,2026-04-04,en revisión,facebook,tecnico,13.0,4
-219,2026-03-11,postulado,linkedin,no especificado,13.0,1
-220,2026-02-11,entrevista,computrabajo,no especificado,8.0,4
-225,2026-03-19,en revisión,facebook,maestria,5.0,5
-226,2026-03-12,en revisión,facebook,secundaria,2.0,10
-228,2026-02-12,postulado,computrabajo,secundaria,17.0,2
-229,2026-03-19,postulado,referencia,secundaria,1.0,10
-231,2026-04-09,postulado,facebook,no especificado,4.0,1
-232,2026-03-31,postulado,linkedin,no especificado,12.0,9
-233,2026-03-07,en revisión,computrabajo,no especificado,11.0,1
-235,2026-02-27,entrevista,referencia,no especificado,20.0,5
-236,2026-03-16,aceptado,linkedin,maestria,2.0,4
-237,2026-02-14,en revisión,facebook,universitario,11.0,6
-238,2026-03-14,aceptado,linkedin,secundaria,9.0,3
-239,2026-03-07,postulado,facebook,tecnico,3.0,2
-241,2026-02-15,entrevista,linkedin,secundaria,14.0,10
-242,2026-04-05,entrevista,linkedin,no especificado,6.0,5
-243,2026-03-30,rechazado,facebook,tecnico,14.0,6
-244,2026-03-15,en revisión,linkedin,secundaria,3.0,4
-247,2026-02-14,en revisión,linkedin,universitario,18.0,5
-248,2026-04-08,en revisión,referencia,tecnico,2.0,5
-250,2026-02-15,en revisión,computrabajo,no especificado,17.0,2
-251,2026-04-09,entrevista,referencia,no especificado,4.0,2
-252,2026-03-23,postulado,facebook,secundaria,10.0,7
-253,2026-03-22,aceptado,facebook,universitario,8.0,8
-258,2026-02-24,postulado,facebook,no especificado,16.0,2
-259,2026-02-22,entrevista,facebook,universitario,17.0,4
-260,2026-02-25,rechazado,referencia,no especificado,20.0,3
-261,2026-03-31,rechazado,referencia,no especificado,19.0,4
-262,2026-03-27,en revisión,linkedin,universitario,9.0,3
-263,2026-04-06,aceptado,referencia,no especificado,15.0,1
-264,2026-03-24,entrevista,facebook,secundaria,14.0,6
-265,2026-03-27,en revisión,facebook,tecnico,14.0,8
-266,2026-03-22,postulado,linkedin,secundaria,17.0,6
-268,2026-04-07,postulado,linkedin,universitario,13.0,7
-271,2026-03-22,en revisión,facebook,maestria,20.0,9
-272,2026-03-26,aceptado,página web,maestria,13.0,3
-273,2026-04-01,postulado,facebook,maestria,13.0,10
-274,2026-03-24,postulado,referencia,no especificado,4.0,3
-275,2026-02-27,en revisión,página web,no especificado,17.0,10
-276,2026-03-21,rechazado,página web,universitario,7.0,6
-278,2026-02-17,en revisión,página web,maestria,14.0,8
-283,2026-02-20,entrevista,linkedin,universitario,11.0,10
-284,2026-02-14,rechazado,facebook,no especificado,13.0,1
-287,2026-03-12,aceptado,computrabajo,tecnico,17.0,1
-288,2026-03-24,en revisión,página web,secundaria,20.0,6
-289,2026-02-17,en revisión,linkedin,secundaria,13.0,9
-290,2026-03-17,en revisión,computrabajo,no especificado,14.0,4
-291,2026-04-02,rechazado,linkedin,secundaria,2.0,6
-292,2026-03-24,postulado,facebook,universitario,20.0,9
-293,2026-03-12,postulado,linkedin,universitario,15.0,3
-294,2026-02-16,en revisión,linkedin,maestria,14.0,8
-295,2026-03-24,en revisión,computrabajo,no especificado,5.0,4
-296,2026-03-25,postulado,facebook,no especificado,14.0,9
-297,2026-04-09,en revisión,linkedin,secundaria,3.0,5
-298,2026-04-08,en revisión,computrabajo,tecnico,19.0,5
-299,2026-02-12,entrevista,linkedin,universitario,19.0,1
-300,2026-03-18,postulado,facebook,maestria,12.0,10
-302,2026-03-26,aceptado,linkedin,universitario,3.0,6
-303,2026-03-02,postulado,página web,no especificado,6.0,6
-305,2026-03-29,postulado,linkedin,maestria,12.0,9
-307,2026-02-16,en revisión,facebook,secundaria,3.0,1
-309,2026-02-12,en revisión,referencia,maestria,14.0,6
-310,2026-03-25,entrevista,linkedin,no especificado,20.0,1
-312,2026-03-01,postulado,facebook,no especificado,7.0,2
-314,2026-03-05,en revisión,referencia,secundaria,13.0,6
-317,2026-03-09,postulado,facebook,tecnico,15.0,2
-318,2026-03-17,entrevista,página web,secundaria,14.0,9
-319,2026-02-10,postulado,facebook,no especificado,7.0,5
-320,2026-02-28,rechazado,computrabajo,universitario,19.0,6
-321,2026-03-01,en revisión,página web,no especificado,14.0,1
-323,2026-04-02,aceptado,facebook,tecnico,17.0,10
-325,2026-04-10,en revisión,referencia,no especificado,13.0,6
-326,2026-04-07,aceptado,facebook,secundaria,14.0,6
-327,2026-03-31,entrevista,linkedin,universitario,15.0,1
-328,2026-02-25,entrevista,linkedin,no especificado,16.0,1
-333,2026-03-26,aceptado,página web,no especificado,14.0,5
-336,2026-03-08,postulado,linkedin,maestria,4.0,3
-337,2026-02-12,postulado,linkedin,universitario,14.0,9
-343,2026-03-11,en revisión,facebook,no especificado,17.0,6
-344,2026-03-22,rechazado,página web,secundaria,15.0,9
-345,2026-04-10,postulado,facebook,tecnico,3.0,9
-346,2026-03-04,rechazado,linkedin,maestria,13.0,5
-350,2026-03-14,en revisión,facebook,secundaria,15.0,7
-351,2026-03-28,aceptado,facebook,universitario,20.0,8
-352,2026-02-10,aceptado,facebook,universitario,19.0,4
-353,2026-02-18,en revisión,linkedin,secundaria,11.0,9
-354,2026-03-08,entrevista,linkedin,secundaria,8.0,1
-355,2026-03-22,postulado,linkedin,universitario,11.0,1
-358,2026-03-19,rechazado,facebook,tecnico,19.0,1
-360,2026-03-24,en revisión,linkedin,secundaria,16.0,9
-367,2026-02-19,en revisión,referencia,secundaria,8.0,7
-368,2026-03-14,postulado,página web,no especificado,16.0,2
-370,2026-03-05,entrevista,facebook,no especificado,7.0,3
-372,2026-03-16,aceptado,página web,tecnico,13.0,7
-373,2026-04-02,en revisión,referencia,universitario,14.0,1
-374,2026-03-12,rechazado,página web,no especificado,16.0,7
-375,2026-02-22,en revisión,facebook,no especificado,2.0,9
-376,2026-02-24,rechazado,facebook,maestria,17.0,6
-377,2026-02-12,rechazado,facebook,maestria,9.0,10
-378,2026-03-01,en revisión,referencia,universitario,9.0,10
-379,2026-02-25,en revisión,página web,tecnico,11.0,8
-381,2026-03-22,aceptado,linkedin,tecnico,3.0,3
-384,2026-02-16,postulado,referencia,universitario,13.0,10
-391,2026-04-10,en revisión,referencia,no especificado,11.0,4
-392,2026-04-08,aceptado,facebook,maestria,7.0,9
-393,2026-02-13,rechazado,linkedin,maestria,3.0,7
-394,2026-03-07,en revisión,computrabajo,no especificado,3.0,7
-396,2026-02-25,entrevista,página web,universitario,10.0,5
-397,2026-03-12,postulado,referencia,universitario,14.0,10
-398,2026-02-19,en revisión,computrabajo,maestria,20.0,5
-401,2026-03-12,en revisión,facebook,maestria,8.0,8
-402,2026-03-01,en revisión,computrabajo,tecnico,10.0,9
-404,2026-03-29,rechazado,página web,no especificado,8.0,2
-408,2026-03-14,rechazado,computrabajo,no especificado,7.0,4
-409,2026-02-16,rechazado,página web,secundaria,14.0,4
-410,2026-03-08,postulado,facebook,universitario,15.0,1
-411,2026-03-23,aceptado,linkedin,maestria,5.0,8
-412,2026-03-15,entrevista,computrabajo,no especificado,3.0,6
-414,2026-03-15,rechazado,página web,no especificado,19.0,6
-415,2026-03-16,aceptado,facebook,maestria,2.0,1
-416,2026-03-28,rechazado,facebook,no especificado,18.0,6
-418,2026-02-27,en revisión,linkedin,universitario,12.0,1
-420,2026-02-11,aceptado,computrabajo,no especificado,15.0,7
-421,2026-03-21,rechazado,referencia,no especificado,12.0,8
-423,2026-03-23,en revisión,referencia,no especificado,18.0,7
-424,2026-02-26,en revisión,página web,secundaria,3.0,4
-426,2026-02-16,entrevista,facebook,maestria,14.0,2
-427,2026-03-07,en revisión,linkedin,tecnico,18.0,1
-428,2026-03-31,entrevista,linkedin,no especificado,18.0,8
-430,2026-03-14,rechazado,linkedin,no especificado,10.0,7
-432,2026-02-20,aceptado,linkedin,maestria,3.0,1
-433,2026-04-01,en revisión,página web,secundaria,9.0,10
-435,2026-03-08,en revisión,facebook,universitario,7.0,5
-437,2026-04-05,en revisión,página web,secundaria,11.0,10
-439,2026-02-22,en revisión,computrabajo,tecnico,7.0,6
-440,2026-04-05,en revisión,computrabajo,no especificado,12.0,3
-441,2026-02-20,entrevista,linkedin,maestria,13.0,9
-442,2026-03-17,en revisión,página web,maestria,3.0,7
-443,2026-02-27,aceptado,linkedin,universitario,7.0,10
-444,2026-02-21,en revisión,linkedin,no especificado,11.0,7
-445,2026-03-03,postulado,página web,no especificado,14.0,8
-446,2026-03-21,en revisión,facebook,maestria,3.0,9
-448,2026-03-27,en revisión,referencia,maestria,6.0,9
-449,2026-03-02,postulado,facebook,maestria,10.0,4
-450,2026-02-10,rechazado,linkedin,universitario,14.0,3
-452,2026-03-11,rechazado,facebook,universitario,2.0,5
-453,2026-03-16,entrevista,linkedin,no especificado,8.0,9
-454,2026-03-17,en revisión,computrabajo,no especificado,14.0,10
-457,2026-03-16,en revisión,computrabajo,universitario,5.0,4
-458,2026-02-28,postulado,referencia,no especificado,7.0,5
-459,2026-02-28,en revisión,linkedin,tecnico,5.0,5
-460,2026-03-11,postulado,referencia,tecnico,3.0,10
-461,2026-03-19,postulado,computrabajo,no especificado,6.0,6
-462,2026-02-20,rechazado,referencia,no especificado,11.0,1
-465,2026-03-04,entrevista,facebook,no especificado,4.0,9
-466,2026-03-18,rechazado,computrabajo,secundaria,6.0,8
-467,2026-04-05,entrevista,linkedin,maestria,12.0,7
-468,2026-03-29,en revisión,linkedin,maestria,3.0,1
-469,2026-03-13,postulado,facebook,maestria,19.0,4
-471,2026-04-08,en revisión,linkedin,secundaria,18.0,8
-472,2026-03-16,entrevista,computrabajo,no especificado,7.0,4
-474,2026-04-08,entrevista,computrabajo,maestria,9.0,7
-484,2026-03-01,rechazado,linkedin,maestria,8.0,6
-485,2026-02-15,en revisión,referencia,no especificado,10.0,4
-486,2026-03-16,entrevista,linkedin,universitario,7.0,2
-487,2026-03-17,postulado,facebook,maestria,6.0,9
-488,2026-03-25,entrevista,linkedin,secundaria,19.0,4
-491,2026-03-31,entrevista,referencia,no especificado,11.0,9
-492,2026-04-04,aceptado,computrabajo,no especificado,5.0,7
-495,2026-02-20,aceptado,linkedin,no especificado,12.0,2
-496,2026-02-24,rechazado,página web,no especificado,11.0,1
-499,2026-02-27,en revisión,linkedin,tecnico,2.0,3
-500,2026-03-09,en revisión,facebook,maestria,13.0,2
-501,2026-02-11,en revisión,referencia,maestria,18.0,9
-502,2026-03-24,en revisión,linkedin,tecnico,4.0,8
-503,2026-02-15,aceptado,facebook,maestria,11.0,3
-505,2026-03-30,postulado,computrabajo,secundaria,11.0,1
-507,2026-03-10,en revisión,referencia,maestria,14.0,4
-508,2026-03-20,postulado,linkedin,no especificado,4.0,8
-509,2026-02-24,postulado,linkedin,universitario,9.0,10
-515,2026-03-14,rechazado,linkedin,universitario,14.0,2
-516,2026-03-13,aceptado,linkedin,tecnico,10.0,7
-518,2026-03-07,rechazado,facebook,no especificado,7.0,3
-519,2026-03-19,en revisión,página web,no especificado,2.0,7
-520,2026-04-02,rechazado,linkedin,no especificado,14.0,1
-523,2026-03-22,entrevista,página web,maestria,15.0,9
-527,2026-03-18,entrevista,linkedin,secundaria,16.0,4
-528,2026-03-26,en revisión,linkedin,no especificado,11.0,2
-530,2026-03-08,en revisión,referencia,secundaria,20.0,9
-531,2026-02-18,en revisión,facebook,no especificado,3.0,9
-532,2026-04-03,en revisión,linkedin,secundaria,6.0,7
-533,2026-04-09,aceptado,linkedin,tecnico,14.0,6
-537,2026-03-14,postulado,facebook,maestria,2.0,1
-538,2026-02-22,en revisión,página web,universitario,5.0,8
-539,2026-02-10,en revisión,linkedin,no especificado,15.0,2
-543,2026-03-12,en revisión,referencia,no especificado,12.0,10
-544,2026-03-24,en revisión,computrabajo,secundaria,13.0,2
-546,2026-02-27,postulado,facebook,maestria,4.0,8
-547,2026-03-13,entrevista,referencia,no especificado,11.0,7
-548,2026-03-08,aceptado,facebook,tecnico,5.0,5
-549,2026-03-22,postulado,facebook,no especificado,14.0,6
-550,2026-03-10,aceptado,página web,no especificado,19.0,4
-552,2026-02-14,postulado,facebook,tecnico,1.0,6
-553,2026-03-30,en revisión,computrabajo,secundaria,13.0,8
-554,2026-02-27,rechazado,referencia,no especificado,10.0,5
-556,2026-03-07,postulado,referencia,maestria,10.0,8
-557,2026-02-23,en revisión,linkedin,tecnico,16.0,5
-562,2026-02-20,rechazado,facebook,secundaria,6.0,3
-566,2026-03-27,postulado,linkedin,universitario,7.0,9
-568,2026-03-15,rechazado,referencia,no especificado,14.0,8
-569,2026-04-06,entrevista,facebook,no especificado,20.0,8
-573,2026-03-18,rechazado,facebook,maestria,2.0,6
-575,2026-03-19,postulado,linkedin,universitario,11.0,10
-577,2026-02-20,entrevista,linkedin,tecnico,15.0,9
-579,2026-02-22,rechazado,linkedin,universitario,20.0,3
-582,2026-02-14,postulado,referencia,tecnico,20.0,10
-583,2026-03-22,postulado,computrabajo,no especificado,15.0,2
-584,2026-03-29,postulado,facebook,universitario,1.0,4
-585,2026-04-08,entrevista,referencia,no especificado,7.0,2
-588,2026-03-23,postulado,facebook,tecnico,9.0,5
-596,2026-02-11,entrevista,facebook,no especificado,17.0,4
-597,2026-02-22,postulado,facebook,universitario,5.0,10
-602,2026-04-07,rechazado,facebook,tecnico,16.0,4
-603,2026-03-28,en revisión,referencia,maestria,15.0,2
-604,2026-04-07,en revisión,linkedin,maestria,18.0,2
-605,2026-03-24,aceptado,página web,no especificado,17.0,9
-606,2026-02-12,entrevista,referencia,no especificado,2.0,1
-607,2026-02-10,en revisión,facebook,no especificado,7.0,10
-610,2026-04-10,rechazado,facebook,no especificado,14.0,4
-613,2026-02-24,en revisión,referencia,maestria,8.0,4
-615,2026-02-11,postulado,computrabajo,no especificado,19.0,10
-616,2026-03-14,aceptado,linkedin,tecnico,1.0,9
-617,2026-03-25,rechazado,linkedin,maestria,2.0,2
-620,2026-02-22,en revisión,computrabajo,maestria,15.0,6
-621,2026-04-09,entrevista,linkedin,tecnico,3.0,1
-622,2026-03-23,entrevista,referencia,no especificado,14.0,7
-623,2026-04-06,postulado,linkedin,no especificado,8.0,7
-625,2026-02-13,en revisión,computrabajo,secundaria,6.0,1
-630,2026-03-02,rechazado,página web,maestria,9.0,7
-632,2026-04-08,entrevista,computrabajo,no especificado,14.0,1
-633,2026-02-16,en revisión,referencia,secundaria,2.0,3
-634,2026-04-06,en revisión,computrabajo,tecnico,9.0,6
-635,2026-02-19,postulado,facebook,secundaria,2.0,4
-638,2026-03-22,aceptado,facebook,no especificado,8.0,3
-639,2026-02-23,en revisión,facebook,tecnico,12.0,9
-640,2026-03-28,postulado,computrabajo,no especificado,9.0,8
-641,2026-03-03,aceptado,linkedin,maestria,5.0,3
-642,2026-03-30,aceptado,referencia,no especificado,17.0,4
-645,2026-04-10,entrevista,linkedin,maestria,19.0,6
-649,2026-03-18,aceptado,facebook,tecnico,10.0,7
-650,2026-03-16,rechazado,facebook,no especificado,19.0,4
-651,2026-03-14,entrevista,facebook,no especificado,3.0,6
-654,2026-04-08,rechazado,linkedin,no especificado,11.0,5
-655,2026-02-10,postulado,referencia,no especificado,16.0,5
-656,2026-02-17,rechazado,página web,tecnico,8.0,3
-658,2026-02-20,postulado,linkedin,no especificado,7.0,1
-659,2026-04-07,en revisión,linkedin,tecnico,10.0,8
-661,2026-03-19,aceptado,facebook,secundaria,3.0,10
-662,2026-02-15,postulado,linkedin,no especificado,14.0,1
-663,2026-03-18,rechazado,página web,no especificado,7.0,10
-664,2026-04-09,en revisión,computrabajo,no especificado,6.0,9
-667,2026-03-15,en revisión,facebook,secundaria,18.0,2
-670,2026-03-14,aceptado,computrabajo,maestria,8.0,3
-672,2026-04-02,en revisión,linkedin,universitario,12.0,3
-674,2026-03-21,en revisión,referencia,universitario,2.0,7
-675,2026-03-19,en revisión,linkedin,no especificado,4.0,2
-678,2026-03-24,postulado,linkedin,tecnico,1.0,7
-679,2026-03-02,rechazado,linkedin,tecnico,11.0,7
-680,2026-03-03,en revisión,facebook,secundaria,18.0,5
-682,2026-02-22,postulado,facebook,maestria,11.0,9
-683,2026-04-09,rechazado,linkedin,universitario,17.0,7
-684,2026-03-20,en revisión,referencia,maestria,5.0,4
-685,2026-02-27,postulado,linkedin,maestria,12.0,1
-686,2026-03-16,en revisión,facebook,tecnico,2.0,8
-689,2026-03-24,postulado,linkedin,maestria,14.0,6
-690,2026-02-10,entrevista,linkedin,maestria,19.0,6
-691,2026-02-14,entrevista,linkedin,no especificado,8.0,9
-693,2026-04-07,aceptado,linkedin,no especificado,2.0,1
-694,2026-02-17,en revisión,facebook,secundaria,8.0,4
-697,2026-03-03,postulado,página web,no especificado,4.0,8
-698,2026-02-28,en revisión,página web,no especificado,8.0,8
-700,2026-04-09,rechazado,facebook,maestria,19.0,9
-701,2026-03-31,aceptado,facebook,secundaria,12.0,1
-702,2026-04-05,entrevista,linkedin,universitario,4.0,3
-705,2026-04-10,postulado,computrabajo,no especificado,3.0,8
-707,2026-03-19,en revisión,facebook,tecnico,18.0,5
-708,2026-02-28,rechazado,facebook,secundaria,9.0,3
-710,2026-03-25,en revisión,linkedin,no especificado,17.0,10
-711,2026-02-21,en revisión,página web,no especificado,14.0,9
-712,2026-04-06,rechazado,linkedin,no especificado,6.0,3
-715,2026-02-24,en revisión,facebook,no especificado,7.0,7
-717,2026-03-06,en revisión,computrabajo,universitario,19.0,4
-719,2026-03-15,aceptado,linkedin,tecnico,7.0,6
-720,2026-02-28,rechazado,página web,no especificado,15.0,8
-722,2026-03-24,en revisión,facebook,no especificado,2.0,2
-724,2026-04-06,postulado,linkedin,tecnico,1.0,7
-725,2026-02-17,en revisión,computrabajo,no especificado,12.0,8
-728,2026-02-19,aceptado,facebook,no especificado,19.0,4
-729,2026-02-28,en revisión,computrabajo,universitario,3.0,1
-730,2026-03-17,en revisión,referencia,no especificado,17.0,3
-731,2026-04-09,rechazado,linkedin,tecnico,1.0,8
-732,2026-02-25,postulado,facebook,no especificado,9.0,3
-733,2026-04-04,aceptado,página web,no especificado,5.0,7
-734,2026-02-25,entrevista,facebook,maestria,16.0,4
-735,2026-02-14,rechazado,linkedin,universitario,9.0,2
-736,2026-03-12,aceptado,linkedin,maestria,8.0,3
-737,2026-03-13,entrevista,referencia,universitario,20.0,9
-739,2026-03-01,rechazado,página web,no especificado,1.0,6
-740,2026-02-20,aceptado,linkedin,universitario,9.0,9
-741,2026-04-05,aceptado,linkedin,secundaria,8.0,3
-743,2026-03-12,en revisión,linkedin,tecnico,17.0,4
-744,2026-02-11,rechazado,referencia,tecnico,6.0,4
-746,2026-03-07,en revisión,referencia,no especificado,2.0,2
-748,2026-03-16,postulado,linkedin,universitario,4.0,10
-752,2026-03-29,en revisión,página web,no especificado,11.0,5
-755,2026-03-14,en revisión,página web,no especificado,1.0,4
-756,2026-03-11,en revisión,página web,universitario,4.0,9
-757,2026-03-21,rechazado,referencia,tecnico,15.0,5
-758,2026-02-18,en revisión,computrabajo,secundaria,3.0,1
-759,2026-03-13,en revisión,linkedin,universitario,11.0,8
-760,2026-02-11,postulado,facebook,universitario,1.0,7
-764,2026-03-23,rechazado,referencia,no especificado,8.0,3
-766,2026-02-27,en revisión,página web,tecnico,10.0,3
-767,2026-03-21,postulado,página web,maestria,16.0,10
-768,2026-03-01,aceptado,referencia,no especificado,3.0,3
-769,2026-03-17,en revisión,linkedin,tecnico,4.0,4
-770,2026-04-04,rechazado,linkedin,no especificado,17.0,9
-771,2026-03-27,en revisión,página web,no especificado,18.0,6
-772,2026-03-19,en revisión,página web,tecnico,20.0,2
-774,2026-03-27,rechazado,linkedin,no especificado,11.0,1
-776,2026-02-15,en revisión,linkedin,universitario,4.0,5
-777,2026-02-22,en revisión,linkedin,universitario,20.0,6
-778,2026-02-27,aceptado,linkedin,tecnico,8.0,9
-780,2026-03-11,rechazado,referencia,tecnico,2.0,1
-782,2026-02-28,postulado,linkedin,secundaria,8.0,5
-784,2026-03-23,en revisión,facebook,universitario,20.0,6
-786,2026-04-10,postulado,página web,tecnico,17.0,8
-787,2026-04-10,en revisión,facebook,maestria,18.0,10
-790,2026-03-17,postulado,página web,no especificado,6.0,8
-792,2026-04-03,entrevista,referencia,no especificado,17.0,2
-794,2026-03-13,en revisión,linkedin,maestria,8.0,6
-796,2026-03-25,en revisión,facebook,tecnico,1.0,10
-798,2026-03-01,aceptado,página web,no especificado,2.0,2
-799,2026-04-06,aceptado,página web,no especificado,8.0,6
-800,2026-03-10,entrevista,referencia,tecnico,15.0,10
-801,2026-03-12,entrevista,linkedin,secundaria,10.0,1
-803,2026-02-13,en revisión,referencia,secundaria,8.0,2
-804,2026-03-23,en revisión,computrabajo,secundaria,1.0,5
-806,2026-02-16,entrevista,linkedin,tecnico,18.0,10
-807,2026-02-28,en revisión,facebook,secundaria,20.0,5
-808,2026-03-30,entrevista,computrabajo,no especificado,8.0,10
-810,2026-03-21,entrevista,referencia,no especificado,18.0,5
-811,2026-04-07,postulado,linkedin,tecnico,7.0,4
-812,2026-03-04,rechazado,linkedin,tecnico,14.0,3
-813,2026-02-27,entrevista,facebook,universitario,13.0,3
-819,2026-03-29,postulado,linkedin,universitario,16.0,1
-820,2026-03-30,rechazado,facebook,no especificado,14.0,2
-821,2026-02-25,entrevista,computrabajo,no especificado,11.0,3
-822,2026-02-17,en revisión,facebook,no especificado,14.0,8
-823,2026-02-24,rechazado,página web,no especificado,8.0,1
-824,2026-03-29,en revisión,computrabajo,universitario,9.0,7
-825,2026-04-02,en revisión,linkedin,no especificado,18.0,6
-828,2026-03-16,rechazado,referencia,secundaria,7.0,4
-831,2026-03-30,rechazado,linkedin,no especificado,20.0,6
-832,2026-02-28,aceptado,facebook,maestria,8.0,3
-833,2026-02-15,rechazado,computrabajo,maestria,7.0,10
-834,2026-02-20,postulado,página web,no especificado,3.0,8
-835,2026-02-24,en revisión,referencia,no especificado,1.0,6
-836,2026-03-08,en revisión,facebook,secundaria,16.0,8
-837,2026-02-18,rechazado,facebook,no especificado,10.0,2
-838,2026-02-22,en revisión,computrabajo,no especificado,11.0,3
-839,2026-03-09,en revisión,página web,maestria,5.0,9
-841,2026-02-16,postulado,página web,no especificado,1.0,1
-843,2026-04-01,aceptado,facebook,maestria,2.0,2
-844,2026-03-05,rechazado,facebook,universitario,17.0,1
-846,2026-03-25,en revisión,linkedin,tecnico,4.0,2
-848,2026-03-28,entrevista,linkedin,universitario,8.0,10
-850,2026-02-23,rechazado,computrabajo,no especificado,5.0,1
-851,2026-03-22,postulado,computrabajo,no especificado,14.0,7
-852,2026-03-14,en revisión,facebook,universitario,13.0,10
-854,2026-04-06,entrevista,linkedin,no especificado,7.0,8
-855,2026-02-28,rechazado,referencia,no especificado,1.0,2
-856,2026-02-13,postulado,linkedin,secundaria,11.0,5
-857,2026-03-24,entrevista,facebook,secundaria,16.0,5
-858,2026-03-09,entrevista,referencia,tecnico,3.0,4
-859,2026-04-02,en revisión,referencia,maestria,1.0,8
-860,2026-03-23,en revisión,computrabajo,universitario,5.0,4
-861,2026-02-21,en revisión,página web,maestria,3.0,4
-862,2026-03-05,en revisión,linkedin,maestria,6.0,6
-863,2026-03-22,en revisión,linkedin,no especificado,7.0,7
-864,2026-02-26,postulado,linkedin,no especificado,10.0,3
-865,2026-03-02,entrevista,facebook,no especificado,5.0,10
-866,2026-04-08,postulado,computrabajo,no especificado,12.0,8
-867,2026-04-03,rechazado,computrabajo,secundaria,3.0,6
-868,2026-04-04,entrevista,facebook,universitario,20.0,4
-871,2026-03-23,rechazado,referencia,no especificado,7.0,8
-874,2026-03-23,rechazado,linkedin,maestria,10.0,9
-876,2026-02-22,en revisión,referencia,tecnico,13.0,7
-879,2026-03-01,postulado,linkedin,secundaria,18.0,2
-881,2026-03-12,en revisión,linkedin,no especificado,6.0,6
-882,2026-03-01,postulado,facebook,maestria,19.0,3
-883,2026-04-09,en revisión,referencia,secundaria,5.0,6
-885,2026-03-23,rechazado,linkedin,secundaria,14.0,5
-886,2026-02-22,rechazado,linkedin,universitario,19.0,8
-893,2026-03-03,en revisión,facebook,tecnico,16.0,1
-894,2026-03-02,aceptado,facebook,maestria,17.0,5
-897,2026-02-27,en revisión,computrabajo,no especificado,10.0,9
-902,2026-03-13,en revisión,computrabajo,universitario,5.0,1
-903,2026-02-18,aceptado,facebook,maestria,13.0,3
-904,2026-03-12,entrevista,facebook,maestria,9.0,2
-907,2026-03-17,en revisión,página web,no especificado,8.0,5
-909,2026-02-12,entrevista,facebook,maestria,12.0,4
-910,2026-03-07,en revisión,facebook,universitario,12.0,4
-911,2026-03-01,en revisión,computrabajo,universitario,17.0,1
-912,2026-03-07,entrevista,facebook,universitario,18.0,8
-914,2026-03-14,aceptado,facebook,tecnico,13.0,2
-915,2026-03-19,en revisión,linkedin,tecnico,11.0,1
-918,2026-03-08,en revisión,facebook,secundaria,19.0,1
-928,2026-02-16,rechazado,página web,no especificado,8.0,2
-929,2026-04-02,en revisión,página web,secundaria,9.0,1
-930,2026-03-15,en revisión,linkedin,no especificado,20.0,8
-931,2026-02-28,aceptado,computrabajo,secundaria,5.0,3
-934,2026-02-18,postulado,página web,no especificado,13.0,4
-937,2026-02-12,postulado,linkedin,no especificado,6.0,1
-938,2026-03-04,en revisión,linkedin,maestria,10.0,10
-939,2026-04-10,aceptado,facebook,secundaria,14.0,3
-940,2026-04-08,aceptado,computrabajo,no especificado,19.0,5
-941,2026-03-13,postulado,página web,no especificado,6.0,1
-942,2026-04-10,en revisión,linkedin,tecnico,15.0,6
-943,2026-03-24,en revisión,facebook,tecnico,2.0,9
-946,2026-02-17,entrevista,linkedin,no especificado,9.0,3
-947,2026-03-30,aceptado,computrabajo,no especificado,3.0,1
-948,2026-03-27,aceptado,referencia,tecnico,4.0,8
-949,2026-02-26,aceptado,computrabajo,no especificado,11.0,7
-950,2026-03-14,en revisión,facebook,universitario,12.0,2
-951,2026-03-29,entrevista,página web,maestria,7.0,5
-953,2026-04-10,postulado,facebook,tecnico,12.0,8
-954,2026-03-26,aceptado,facebook,tecnico,4.0,2
-956,2026-03-03,aceptado,facebook,universitario,19.0,2
-957,2026-02-23,en revisión,linkedin,no especificado,10.0,8
-960,2026-03-23,en revisión,facebook,tecnico,20.0,1
-962,2026-03-06,postulado,facebook,maestria,17.0,6
-965,2026-03-12,en revisión,página web,secundaria,17.0,5
-966,2026-02-27,en revisión,página web,universitario,18.0,1
-967,2026-04-08,postulado,linkedin,secundaria,4.0,2
-969,2026-02-12,en revisión,página web,maestria,19.0,2
-971,2026-02-16,en revisión,linkedin,maestria,4.0,4
-972,2026-03-22,rechazado,página web,no especificado,19.0,10
-973,2026-03-06,postulado,computrabajo,no especificado,15.0,3
-974,2026-04-06,en revisión,linkedin,maestria,15.0,8
-976,2026-03-15,en revisión,página web,universitario,13.0,4
-977,2026-03-11,aceptado,facebook,maestria,13.0,2
-981,2026-03-06,rechazado,linkedin,universitario,5.0,5
-983,2026-03-31,entrevista,linkedin,tecnico,12.0,1
-986,2026-04-03,en revisión,referencia,no especificado,1.0,7
-991,2026-02-20,en revisión,facebook,universitario,14.0,3
-993,2026-03-11,entrevista,facebook,universitario,5.0,1
-994,2026-02-27,en revisión,página web,secundaria,6.0,7
-995,2026-02-23,aceptado,linkedin,no especificado,6.0,8
-996,2026-02-17,aceptado,linkedin,tecnico,20.0,4
-998,2026-03-19,en revisión,referencia,no especificado,11.0,6
-999,2026-03-30,rechazado,facebook,tecnico,5.0,5
-1000,2026-02-11,postulado,página web,no especificado,5.0,4
+1,2026-02-28,entrevista,computrabajo,no especificado,12.0,4
+3,2026-03-02,entrevista,linkedin,maestria,20.0,7
+4,2026-02-12,en revisión,referencia,maestria,1.0,3
+5,2026-04-02,en revisión,linkedin,secundaria,9.0,5
+6,2026-03-11,entrevista,facebook,universitario,9.0,8
+7,2026-02-21,en revisión,referencia,tecnico,17.0,9
+8,2026-03-21,en revisión,página web,universitario,16.0,1
+9,2026-02-12,postulado,linkedin,no especificado,1.0,7
+11,2026-04-01,rechazado,linkedin,maestria,12.0,9
+12,2026-04-03,entrevista,referencia,universitario,16.0,4
+13,2026-03-21,en revisión,computrabajo,no especificado,11.0,4
+14,2026-03-13,rechazado,computrabajo,universitario,7.0,2
+18,2026-03-05,entrevista,referencia,tecnico,6.0,9
+19,2026-04-09,rechazado,facebook,secundaria,7.0,7
+20,2026-03-18,rechazado,facebook,tecnico,13.0,1
+21,2026-03-19,postulado,referencia,tecnico,14.0,2
+22,2026-02-25,rechazado,linkedin,no especificado,8.0,4
+24,2026-03-27,entrevista,linkedin,universitario,5.0,3
+25,2026-02-16,postulado,computrabajo,no especificado,8.0,9
+27,2026-03-18,aceptado,referencia,no especificado,2.0,8
+28,2026-02-28,entrevista,facebook,secundaria,12.0,6
+30,2026-02-28,aceptado,computrabajo,no especificado,2.0,8
+31,2026-03-22,postulado,referencia,no especificado,4.0,10
+32,2026-03-05,postulado,facebook,universitario,4.0,4
+33,2026-04-08,en revisión,referencia,secundaria,17.0,10
+36,2026-02-17,entrevista,linkedin,secundaria,7.0,10
+38,2026-04-07,en revisión,linkedin,tecnico,2.0,7
+39,2026-03-24,rechazado,referencia,secundaria,19.0,10
+40,2026-03-07,entrevista,facebook,secundaria,20.0,8
+41,2026-02-20,en revisión,computrabajo,maestria,10.0,2
+42,2026-03-07,postulado,facebook,tecnico,8.0,4
+43,2026-02-24,postulado,página web,no especificado,18.0,7
+44,2026-02-13,aceptado,facebook,no especificado,7.0,1
+45,2026-02-18,en revisión,linkedin,tecnico,10.0,5
+46,2026-03-15,rechazado,linkedin,universitario,18.0,5
+47,2026-03-07,aceptado,linkedin,secundaria,15.0,6
+48,2026-03-07,entrevista,facebook,secundaria,1.0,4
+49,2026-03-31,postulado,linkedin,tecnico,20.0,9
+51,2026-02-18,en revisión,página web,maestria,13.0,3
+53,2026-02-18,postulado,computrabajo,no especificado,20.0,6
+54,2026-03-25,postulado,facebook,secundaria,1.0,6
+56,2026-03-13,entrevista,linkedin,secundaria,4.0,5
+57,2026-02-11,aceptado,facebook,maestria,13.0,3
+60,2026-03-22,aceptado,linkedin,secundaria,10.0,4
+64,2026-02-22,entrevista,página web,tecnico,16.0,7
+65,2026-02-28,en revisión,página web,maestria,6.0,3
+66,2026-04-04,en revisión,página web,universitario,3.0,2
+67,2026-04-08,postulado,linkedin,no especificado,4.0,5
+68,2026-04-04,en revisión,facebook,no especificado,8.0,2
+75,2026-03-23,aceptado,computrabajo,no especificado,8.0,9
+80,2026-03-20,aceptado,facebook,universitario,11.0,5
+82,2026-02-10,postulado,linkedin,maestria,16.0,8
+83,2026-03-15,en revisión,linkedin,maestria,4.0,6
+85,2026-02-13,aceptado,facebook,universitario,20.0,7
+87,2026-02-14,en revisión,computrabajo,secundaria,16.0,7
+88,2026-02-23,en revisión,facebook,tecnico,13.0,3
+89,2026-02-24,entrevista,referencia,secundaria,7.0,5
+90,2026-02-21,postulado,página web,no especificado,19.0,7
+91,2026-02-23,rechazado,página web,no especificado,5.0,10
+95,2026-04-10,en revisión,referencia,maestria,3.0,9
+98,2026-02-28,rechazado,linkedin,tecnico,17.0,8
+99,2026-04-03,postulado,linkedin,universitario,9.0,9
+100,2026-04-03,entrevista,linkedin,maestria,18.0,10
+101,2026-03-15,en revisión,facebook,maestria,16.0,1
+102,2026-03-23,postulado,linkedin,secundaria,2.0,4
+104,2026-02-13,entrevista,facebook,tecnico,5.0,4
+105,2026-02-17,aceptado,referencia,no especificado,5.0,3
+106,2026-02-14,entrevista,referencia,maestria,18.0,5
+108,2026-03-21,aceptado,facebook,tecnico,6.0,7
+109,2026-03-07,entrevista,linkedin,no especificado,9.0,10
+112,2026-02-24,rechazado,computrabajo,no especificado,14.0,5
+114,2026-03-10,aceptado,referencia,maestria,20.0,2
+116,2026-02-19,aceptado,computrabajo,no especificado,11.0,3
+117,2026-03-12,entrevista,facebook,maestria,15.0,6
+118,2026-03-29,postulado,computrabajo,no especificado,13.0,5
+119,2026-03-04,en revisión,linkedin,tecnico,6.0,3
+120,2026-04-07,en revisión,facebook,secundaria,1.0,9
+123,2026-04-05,en revisión,referencia,maestria,16.0,3
+125,2026-02-15,rechazado,linkedin,universitario,8.0,10
+127,2026-02-12,entrevista,linkedin,no especificado,9.0,5
+128,2026-03-12,rechazado,facebook,no especificado,19.0,9
+132,2026-02-12,en revisión,referencia,maestria,17.0,6
+133,2026-04-09,rechazado,linkedin,universitario,20.0,8
+134,2026-02-10,entrevista,página web,no especificado,3.0,2
+135,2026-02-16,en revisión,facebook,universitario,9.0,1
+138,2026-04-04,en revisión,linkedin,universitario,6.0,1
+139,2026-02-19,rechazado,facebook,secundaria,16.0,1
+141,2026-03-30,rechazado,página web,no especificado,8.0,9
+143,2026-02-25,en revisión,computrabajo,tecnico,4.0,4
+144,2026-02-18,postulado,computrabajo,tecnico,6.0,7
+145,2026-03-11,en revisión,referencia,no especificado,11.0,4
+147,2026-02-20,en revisión,computrabajo,tecnico,20.0,6
+148,2026-03-28,aceptado,facebook,maestria,13.0,6
+149,2026-03-05,en revisión,facebook,maestria,11.0,1
+150,2026-04-10,rechazado,página web,no especificado,15.0,10
+154,2026-04-07,postulado,linkedin,universitario,17.0,7
+156,2026-03-25,en revisión,linkedin,secundaria,7.0,7
+158,2026-02-24,aceptado,facebook,no especificado,7.0,5
+159,2026-02-17,entrevista,facebook,maestria,6.0,7
+160,2026-02-15,rechazado,computrabajo,no especificado,14.0,5
+161,2026-03-28,en revisión,computrabajo,universitario,13.0,3
+162,2026-03-08,en revisión,facebook,tecnico,4.0,8
+163,2026-03-23,entrevista,facebook,tecnico,9.0,8
+168,2026-03-22,en revisión,referencia,maestria,4.0,9
+169,2026-03-13,rechazado,computrabajo,maestria,15.0,7
+171,2026-02-10,rechazado,referencia,universitario,13.0,4
+173,2026-02-26,en revisión,linkedin,maestria,13.0,2
+176,2026-02-26,postulado,linkedin,no especificado,4.0,6
+177,2026-03-10,rechazado,facebook,universitario,19.0,2
+178,2026-02-16,entrevista,linkedin,maestria,10.0,5
+179,2026-02-16,en revisión,página web,tecnico,6.0,10
+180,2026-03-12,en revisión,linkedin,secundaria,2.0,7
+181,2026-04-06,rechazado,facebook,no especificado,12.0,8
+182,2026-03-24,en revisión,computrabajo,no especificado,9.0,10
+183,2026-04-02,en revisión,página web,universitario,15.0,2
+185,2026-02-11,aceptado,referencia,no especificado,7.0,6
+186,2026-04-10,en revisión,facebook,tecnico,12.0,6
+187,2026-03-21,rechazado,página web,maestria,4.0,1
+188,2026-02-18,rechazado,página web,no especificado,11.0,7
+189,2026-02-10,rechazado,facebook,universitario,7.0,10
+190,2026-04-01,rechazado,computrabajo,no especificado,11.0,3
+191,2026-03-08,entrevista,referencia,no especificado,12.0,10
+192,2026-04-05,aceptado,facebook,tecnico,14.0,9
+193,2026-03-17,rechazado,facebook,tecnico,17.0,3
+195,2026-03-09,en revisión,linkedin,maestria,9.0,7
+202,2026-04-07,rechazado,página web,no especificado,13.0,8
+203,2026-04-04,en revisión,facebook,tecnico,1.0,5
+206,2026-03-14,entrevista,linkedin,tecnico,2.0,3
+209,2026-04-04,postulado,linkedin,universitario,11.0,1
+212,2026-03-29,en revisión,referencia,tecnico,12.0,3
+214,2026-04-01,rechazado,linkedin,universitario,14.0,1
+215,2026-02-28,entrevista,computrabajo,no especificado,17.0,7
+216,2026-02-23,rechazado,referencia,no especificado,3.0,8
+217,2026-04-02,rechazado,facebook,tecnico,5.0,9
+220,2026-03-22,en revisión,página web,secundaria,19.0,2
+222,2026-02-26,en revisión,referencia,maestria,10.0,2
+226,2026-03-25,en revisión,facebook,universitario,13.0,8
+229,2026-03-25,rechazado,computrabajo,no especificado,12.0,6
+233,2026-03-15,en revisión,referencia,secundaria,11.0,5
+234,2026-02-28,en revisión,linkedin,tecnico,16.0,1
+235,2026-02-14,entrevista,linkedin,secundaria,12.0,5
+236,2026-03-10,en revisión,computrabajo,no especificado,17.0,6
+238,2026-03-11,en revisión,facebook,tecnico,6.0,4
+240,2026-03-02,postulado,página web,no especificado,11.0,8
+242,2026-03-03,entrevista,linkedin,secundaria,3.0,2
+244,2026-02-17,aceptado,facebook,no especificado,1.0,1
+245,2026-02-15,aceptado,página web,tecnico,13.0,8
+246,2026-02-21,en revisión,página web,universitario,1.0,10
+248,2026-03-18,en revisión,facebook,tecnico,1.0,5
+249,2026-03-14,postulado,facebook,maestria,6.0,9
+256,2026-02-17,postulado,facebook,maestria,16.0,2
+257,2026-02-17,en revisión,computrabajo,secundaria,2.0,9
+258,2026-04-09,en revisión,facebook,maestria,3.0,10
+259,2026-04-09,aceptado,referencia,secundaria,19.0,1
+260,2026-02-14,postulado,referencia,universitario,9.0,2
+261,2026-02-16,en revisión,referencia,universitario,11.0,3
+262,2026-04-05,entrevista,página web,no especificado,15.0,7
+263,2026-03-21,aceptado,referencia,no especificado,15.0,1
+264,2026-02-11,postulado,página web,maestria,3.0,2
+267,2026-03-16,postulado,facebook,no especificado,3.0,6
+268,2026-03-10,aceptado,facebook,no especificado,11.0,4
+269,2026-02-28,en revisión,linkedin,maestria,12.0,9
+270,2026-03-02,postulado,facebook,maestria,6.0,6
+272,2026-03-30,en revisión,facebook,universitario,11.0,6
+273,2026-02-24,postulado,computrabajo,universitario,5.0,1
+274,2026-03-27,rechazado,facebook,secundaria,2.0,7
+277,2026-02-16,entrevista,computrabajo,no especificado,19.0,3
+278,2026-03-25,entrevista,linkedin,no especificado,17.0,10
+284,2026-02-10,entrevista,linkedin,maestria,11.0,10
+285,2026-02-25,entrevista,linkedin,tecnico,10.0,1
+286,2026-03-31,rechazado,computrabajo,no especificado,5.0,10
+287,2026-02-12,postulado,computrabajo,maestria,16.0,3
+289,2026-02-19,postulado,facebook,maestria,8.0,8
+296,2026-03-12,entrevista,computrabajo,secundaria,11.0,9
+299,2026-03-13,entrevista,linkedin,secundaria,1.0,7
+302,2026-04-07,postulado,linkedin,secundaria,13.0,5
+303,2026-02-13,entrevista,computrabajo,no especificado,7.0,6
+305,2026-04-10,postulado,facebook,maestria,11.0,2
+307,2026-02-20,postulado,linkedin,universitario,1.0,7
+308,2026-03-01,postulado,facebook,no especificado,16.0,7
+310,2026-03-26,en revisión,página web,universitario,12.0,5
+312,2026-03-19,en revisión,computrabajo,maestria,10.0,8
+313,2026-03-17,aceptado,computrabajo,no especificado,1.0,4
+315,2026-03-14,rechazado,facebook,no especificado,12.0,2
+317,2026-02-20,entrevista,facebook,maestria,1.0,3
+318,2026-03-15,postulado,linkedin,universitario,14.0,1
+319,2026-04-03,entrevista,facebook,secundaria,4.0,5
+320,2026-02-17,rechazado,facebook,secundaria,7.0,6
+321,2026-03-18,postulado,linkedin,no especificado,1.0,5
+322,2026-04-01,entrevista,linkedin,tecnico,9.0,6
+327,2026-04-04,rechazado,linkedin,maestria,2.0,4
+329,2026-02-11,postulado,linkedin,maestria,1.0,6
+330,2026-03-05,entrevista,linkedin,secundaria,4.0,5
+331,2026-04-10,en revisión,computrabajo,secundaria,14.0,10
+334,2026-03-15,postulado,referencia,no especificado,13.0,3
+335,2026-02-14,postulado,referencia,tecnico,18.0,4
+336,2026-02-22,entrevista,facebook,tecnico,14.0,10
+339,2026-02-21,en revisión,página web,universitario,7.0,8
+341,2026-04-03,postulado,facebook,maestria,4.0,3
+342,2026-03-11,en revisión,linkedin,no especificado,9.0,9
+343,2026-03-25,aceptado,página web,no especificado,14.0,6
+345,2026-03-08,rechazado,referencia,no especificado,3.0,1
+346,2026-04-10,en revisión,linkedin,no especificado,13.0,4
+347,2026-03-25,rechazado,computrabajo,no especificado,13.0,3
+349,2026-02-28,rechazado,facebook,tecnico,20.0,4
+350,2026-02-10,postulado,computrabajo,no especificado,1.0,10
+351,2026-03-20,rechazado,computrabajo,maestria,19.0,7
+352,2026-03-23,rechazado,linkedin,universitario,5.0,10
+353,2026-02-26,en revisión,referencia,tecnico,3.0,3
+355,2026-03-20,entrevista,facebook,maestria,7.0,3
+357,2026-02-25,entrevista,página web,no especificado,12.0,1
+358,2026-02-20,postulado,facebook,secundaria,10.0,8
+359,2026-03-30,postulado,computrabajo,no especificado,4.0,3
+362,2026-03-08,aceptado,facebook,no especificado,5.0,2
+365,2026-02-18,entrevista,linkedin,no especificado,3.0,2
+369,2026-04-06,aceptado,facebook,maestria,10.0,2
+370,2026-03-08,en revisión,referencia,tecnico,10.0,8
+374,2026-02-23,postulado,linkedin,no especificado,3.0,7
+376,2026-03-08,en revisión,referencia,maestria,20.0,8
+378,2026-02-21,rechazado,linkedin,no especificado,4.0,9
+379,2026-03-18,rechazado,facebook,secundaria,14.0,8
+380,2026-03-09,en revisión,referencia,no especificado,1.0,9
+382,2026-03-29,aceptado,linkedin,maestria,19.0,4
+384,2026-03-15,rechazado,linkedin,universitario,4.0,7
+386,2026-04-07,en revisión,facebook,universitario,7.0,9
+387,2026-03-03,aceptado,facebook,tecnico,12.0,1
+388,2026-03-03,en revisión,computrabajo,secundaria,1.0,5
+390,2026-03-19,rechazado,linkedin,maestria,20.0,3
+392,2026-03-26,en revisión,facebook,universitario,6.0,10
+393,2026-03-05,en revisión,linkedin,maestria,4.0,3
+396,2026-03-21,en revisión,página web,tecnico,8.0,5
+397,2026-03-11,en revisión,página web,maestria,2.0,9
+398,2026-02-27,postulado,facebook,tecnico,11.0,8
+400,2026-04-05,entrevista,linkedin,universitario,8.0,6
+402,2026-02-10,aceptado,facebook,maestria,20.0,4
+403,2026-03-05,aceptado,linkedin,maestria,6.0,4
+405,2026-04-04,aceptado,linkedin,maestria,15.0,5
+406,2026-02-12,postulado,linkedin,maestria,4.0,9
+408,2026-03-05,aceptado,facebook,maestria,6.0,6
+410,2026-03-14,rechazado,linkedin,tecnico,4.0,5
+413,2026-03-10,en revisión,referencia,universitario,7.0,6
+414,2026-02-28,aceptado,linkedin,no especificado,18.0,9
+415,2026-02-14,en revisión,facebook,maestria,8.0,2
+417,2026-04-09,entrevista,facebook,tecnico,2.0,4
+418,2026-02-27,rechazado,página web,no especificado,20.0,4
+423,2026-02-16,rechazado,linkedin,tecnico,10.0,3
+426,2026-04-01,entrevista,computrabajo,no especificado,3.0,1
+427,2026-02-18,postulado,referencia,no especificado,6.0,4
+428,2026-03-29,en revisión,referencia,maestria,11.0,9
+429,2026-04-02,en revisión,computrabajo,maestria,9.0,8
+430,2026-04-05,en revisión,linkedin,no especificado,19.0,9
+433,2026-03-01,aceptado,linkedin,universitario,16.0,9
+434,2026-02-18,entrevista,facebook,secundaria,5.0,8
+435,2026-02-14,postulado,linkedin,no especificado,15.0,9
+437,2026-03-26,en revisión,facebook,secundaria,20.0,6
+440,2026-04-05,entrevista,linkedin,maestria,1.0,10
+441,2026-03-16,aceptado,referencia,no especificado,10.0,6
+444,2026-03-02,en revisión,linkedin,universitario,13.0,3
+445,2026-02-24,en revisión,linkedin,tecnico,11.0,4
+446,2026-03-07,entrevista,facebook,universitario,3.0,2
+448,2026-02-26,en revisión,referencia,secundaria,8.0,7
+451,2026-03-06,en revisión,página web,no especificado,19.0,1
+455,2026-04-07,en revisión,facebook,universitario,9.0,3
+457,2026-02-13,rechazado,linkedin,universitario,5.0,5
+459,2026-03-29,en revisión,facebook,tecnico,1.0,7
+460,2026-02-23,aceptado,linkedin,no especificado,11.0,10
+461,2026-03-18,aceptado,facebook,no especificado,16.0,4
+463,2026-03-05,aceptado,linkedin,tecnico,19.0,1
+466,2026-03-26,entrevista,facebook,no especificado,6.0,8
+467,2026-03-07,postulado,linkedin,maestria,15.0,9
+468,2026-02-24,postulado,página web,no especificado,14.0,9
+470,2026-03-23,en revisión,referencia,tecnico,19.0,8
+473,2026-02-26,entrevista,computrabajo,secundaria,16.0,6
+475,2026-03-09,rechazado,página web,no especificado,17.0,2
+476,2026-03-06,entrevista,facebook,tecnico,7.0,8
+477,2026-03-23,en revisión,facebook,universitario,20.0,1
+479,2026-03-28,aceptado,linkedin,no especificado,14.0,4
+481,2026-02-15,aceptado,computrabajo,no especificado,1.0,4
+482,2026-04-07,aceptado,facebook,tecnico,5.0,10
+483,2026-02-19,aceptado,linkedin,tecnico,6.0,4
+484,2026-02-23,en revisión,facebook,universitario,3.0,1
+485,2026-04-02,rechazado,referencia,no especificado,13.0,9
+486,2026-04-05,entrevista,facebook,universitario,7.0,2
+487,2026-03-15,en revisión,referencia,universitario,11.0,5
+488,2026-03-03,en revisión,linkedin,universitario,18.0,6
+489,2026-02-17,en revisión,referencia,no especificado,19.0,4
+491,2026-02-17,postulado,computrabajo,no especificado,20.0,9
+492,2026-02-22,en revisión,linkedin,secundaria,2.0,10
+495,2026-02-17,rechazado,linkedin,no especificado,4.0,5
+500,2026-03-29,aceptado,facebook,no especificado,16.0,10
+501,2026-03-25,entrevista,facebook,secundaria,4.0,7
+502,2026-03-30,en revisión,página web,universitario,17.0,6
+505,2026-04-10,entrevista,linkedin,tecnico,8.0,4
+507,2026-02-23,en revisión,linkedin,universitario,13.0,3
+510,2026-03-08,en revisión,facebook,universitario,8.0,3
+512,2026-02-28,postulado,facebook,no especificado,13.0,2
+513,2026-03-25,en revisión,linkedin,universitario,4.0,8
+514,2026-02-28,postulado,linkedin,tecnico,5.0,9
+516,2026-03-03,postulado,linkedin,secundaria,17.0,6
+517,2026-04-01,entrevista,página web,no especificado,11.0,8
+520,2026-02-17,en revisión,referencia,maestria,9.0,7
+521,2026-02-13,entrevista,linkedin,universitario,12.0,8
+525,2026-02-12,entrevista,linkedin,tecnico,3.0,10
+527,2026-04-06,en revisión,facebook,universitario,17.0,10
+528,2026-03-16,entrevista,linkedin,maestria,16.0,3
+529,2026-03-08,en revisión,facebook,tecnico,10.0,6
+530,2026-02-19,entrevista,página web,no especificado,17.0,9
+531,2026-03-02,en revisión,linkedin,universitario,10.0,2
+532,2026-02-15,en revisión,página web,universitario,10.0,8
+534,2026-03-18,en revisión,computrabajo,universitario,6.0,4
+535,2026-02-14,rechazado,página web,no especificado,12.0,10
+538,2026-03-09,aceptado,página web,no especificado,8.0,9
+540,2026-03-10,en revisión,facebook,tecnico,17.0,9
+542,2026-03-18,postulado,linkedin,secundaria,20.0,5
+543,2026-02-10,entrevista,facebook,maestria,17.0,7
+544,2026-03-10,aceptado,linkedin,no especificado,15.0,3
+545,2026-03-15,entrevista,facebook,no especificado,17.0,7
+546,2026-03-24,en revisión,referencia,no especificado,12.0,6
+547,2026-02-21,rechazado,computrabajo,no especificado,6.0,4
+548,2026-02-24,en revisión,facebook,secundaria,4.0,6
+550,2026-02-11,entrevista,linkedin,no especificado,14.0,7
+551,2026-03-01,aceptado,linkedin,maestria,8.0,1
+552,2026-03-25,aceptado,linkedin,secundaria,9.0,2
+554,2026-03-24,aceptado,referencia,secundaria,12.0,6
+555,2026-02-18,en revisión,referencia,no especificado,9.0,7
+558,2026-02-28,en revisión,referencia,maestria,3.0,1
+559,2026-03-18,en revisión,linkedin,maestria,6.0,2
+560,2026-03-10,aceptado,referencia,no especificado,4.0,1
+563,2026-02-27,en revisión,página web,maestria,9.0,9
+564,2026-03-25,entrevista,linkedin,no especificado,2.0,3
+566,2026-03-13,en revisión,referencia,tecnico,20.0,4
+568,2026-03-23,rechazado,referencia,no especificado,20.0,1
+569,2026-03-17,postulado,linkedin,no especificado,20.0,10
+570,2026-03-10,rechazado,facebook,maestria,8.0,7
+574,2026-03-18,en revisión,página web,no especificado,19.0,1
+575,2026-02-20,en revisión,página web,universitario,14.0,8
+576,2026-03-03,en revisión,computrabajo,no especificado,6.0,9
+577,2026-02-19,en revisión,computrabajo,no especificado,17.0,9
+579,2026-03-08,rechazado,facebook,maestria,8.0,1
+580,2026-02-24,en revisión,página web,no especificado,8.0,7
+582,2026-02-17,postulado,página web,universitario,2.0,9
+584,2026-03-03,postulado,linkedin,maestria,6.0,10
+585,2026-04-03,rechazado,linkedin,maestria,15.0,8
+586,2026-03-17,rechazado,computrabajo,no especificado,14.0,2
+589,2026-02-17,entrevista,linkedin,tecnico,9.0,8
+590,2026-02-10,en revisión,computrabajo,secundaria,10.0,10
+592,2026-03-02,en revisión,página web,no especificado,20.0,5
+593,2026-02-27,postulado,linkedin,no especificado,7.0,4
+595,2026-04-09,entrevista,facebook,secundaria,7.0,6
+596,2026-03-21,en revisión,computrabajo,tecnico,15.0,6
+597,2026-03-09,rechazado,facebook,secundaria,7.0,4
+598,2026-03-29,en revisión,computrabajo,no especificado,15.0,7
+599,2026-03-13,rechazado,linkedin,maestria,13.0,9
+600,2026-02-10,postulado,linkedin,secundaria,16.0,5
+603,2026-02-23,entrevista,página web,no especificado,5.0,10
+605,2026-02-18,postulado,página web,no especificado,17.0,2
+606,2026-03-08,entrevista,página web,universitario,15.0,8
+607,2026-03-16,postulado,facebook,maestria,17.0,2
+611,2026-04-05,en revisión,facebook,maestria,10.0,7
+612,2026-03-01,rechazado,referencia,no especificado,15.0,7
+613,2026-03-29,postulado,linkedin,universitario,16.0,1
+615,2026-03-26,entrevista,referencia,no especificado,8.0,9
+616,2026-03-25,rechazado,linkedin,tecnico,18.0,9
+617,2026-02-13,entrevista,referencia,no especificado,2.0,5
+618,2026-02-26,en revisión,referencia,secundaria,5.0,8
+619,2026-03-18,en revisión,computrabajo,maestria,17.0,10
+620,2026-03-26,postulado,referencia,no especificado,9.0,4
+621,2026-03-05,en revisión,computrabajo,no especificado,16.0,4
+622,2026-04-07,entrevista,referencia,no especificado,1.0,9
+623,2026-03-14,aceptado,linkedin,universitario,10.0,10
+625,2026-03-18,en revisión,página web,tecnico,9.0,5
+626,2026-03-15,aceptado,referencia,no especificado,11.0,3
+627,2026-02-18,entrevista,linkedin,universitario,10.0,8
+629,2026-03-25,postulado,facebook,secundaria,3.0,9
+630,2026-02-12,rechazado,computrabajo,no especificado,2.0,3
+631,2026-03-29,entrevista,página web,tecnico,17.0,7
+632,2026-03-27,rechazado,computrabajo,no especificado,9.0,10
+635,2026-03-20,rechazado,facebook,no especificado,8.0,10
+636,2026-02-25,postulado,linkedin,universitario,1.0,2
+638,2026-03-13,rechazado,computrabajo,no especificado,16.0,5
+641,2026-02-25,en revisión,página web,universitario,16.0,7
+643,2026-03-27,rechazado,linkedin,tecnico,17.0,8
+645,2026-02-21,entrevista,linkedin,secundaria,13.0,10
+646,2026-02-15,postulado,referencia,maestria,4.0,4
+648,2026-02-16,entrevista,linkedin,maestria,1.0,5
+649,2026-03-14,en revisión,computrabajo,secundaria,5.0,10
+650,2026-02-18,en revisión,página web,universitario,8.0,5
+652,2026-02-11,aceptado,linkedin,secundaria,19.0,2
+653,2026-03-01,en revisión,facebook,secundaria,15.0,9
+657,2026-02-26,rechazado,linkedin,secundaria,16.0,4
+659,2026-02-28,entrevista,página web,no especificado,1.0,1
+661,2026-03-02,entrevista,página web,secundaria,19.0,5
+662,2026-03-31,en revisión,linkedin,no especificado,5.0,3
+663,2026-03-29,en revisión,linkedin,maestria,8.0,9
+664,2026-02-16,rechazado,página web,no especificado,11.0,1
+665,2026-04-01,rechazado,facebook,no especificado,12.0,10
+667,2026-03-21,postulado,facebook,no especificado,12.0,2
+668,2026-02-16,en revisión,facebook,universitario,18.0,5
+669,2026-03-22,rechazado,linkedin,universitario,19.0,4
+670,2026-04-07,aceptado,linkedin,maestria,12.0,8
+672,2026-02-10,en revisión,referencia,secundaria,15.0,2
+674,2026-02-18,rechazado,linkedin,secundaria,15.0,3
+675,2026-02-21,postulado,linkedin,no especificado,19.0,2
+676,2026-02-17,en revisión,referencia,universitario,12.0,8
+677,2026-02-14,aceptado,linkedin,tecnico,8.0,5
+678,2026-03-28,aceptado,computrabajo,no especificado,10.0,7
+680,2026-04-07,rechazado,computrabajo,secundaria,18.0,4
+681,2026-03-07,en revisión,facebook,tecnico,15.0,10
+684,2026-03-17,postulado,facebook,secundaria,13.0,9
+685,2026-04-03,entrevista,linkedin,no especificado,4.0,2
+687,2026-02-27,en revisión,página web,secundaria,3.0,5
+691,2026-03-12,entrevista,facebook,no especificado,9.0,7
+694,2026-03-13,entrevista,facebook,secundaria,15.0,4
+697,2026-02-11,en revisión,referencia,universitario,16.0,8
+698,2026-03-16,en revisión,computrabajo,tecnico,7.0,5
+699,2026-02-18,entrevista,linkedin,maestria,15.0,5
+700,2026-03-16,postulado,facebook,secundaria,20.0,5
+701,2026-03-30,aceptado,linkedin,secundaria,6.0,7
+702,2026-03-13,rechazado,página web,no especificado,6.0,9
+704,2026-02-13,entrevista,referencia,no especificado,5.0,7
+705,2026-03-16,aceptado,referencia,universitario,6.0,9
+706,2026-02-23,en revisión,página web,universitario,6.0,2
+707,2026-04-06,rechazado,facebook,secundaria,15.0,9
+709,2026-03-28,rechazado,referencia,maestria,18.0,10
+710,2026-03-05,rechazado,referencia,no especificado,11.0,5
+711,2026-02-19,aceptado,página web,universitario,16.0,3
+714,2026-03-14,entrevista,facebook,secundaria,3.0,8
+716,2026-02-20,en revisión,página web,tecnico,12.0,4
+717,2026-02-18,en revisión,linkedin,no especificado,9.0,7
+718,2026-04-08,en revisión,linkedin,universitario,5.0,9
+719,2026-04-10,en revisión,linkedin,tecnico,2.0,5
+720,2026-04-03,en revisión,linkedin,secundaria,14.0,7
+721,2026-03-15,rechazado,linkedin,universitario,13.0,7
+725,2026-03-19,postulado,facebook,no especificado,19.0,6
+726,2026-02-15,en revisión,linkedin,no especificado,1.0,6
+728,2026-02-11,en revisión,referencia,no especificado,8.0,10
+730,2026-02-21,postulado,facebook,no especificado,17.0,2
+732,2026-03-28,aceptado,página web,no especificado,2.0,4
+733,2026-03-16,aceptado,computrabajo,no especificado,9.0,5
+735,2026-02-20,en revisión,facebook,tecnico,18.0,2
+736,2026-03-06,postulado,página web,no especificado,4.0,10
+737,2026-03-30,rechazado,página web,no especificado,11.0,10
+738,2026-03-31,postulado,facebook,no especificado,7.0,4
+740,2026-03-11,aceptado,linkedin,no especificado,4.0,6
+741,2026-03-17,en revisión,computrabajo,maestria,3.0,9
+744,2026-03-06,postulado,linkedin,secundaria,6.0,10
+745,2026-02-14,postulado,computrabajo,maestria,13.0,3
+746,2026-02-27,en revisión,facebook,universitario,7.0,6
+748,2026-04-07,en revisión,computrabajo,universitario,3.0,10
+750,2026-03-02,rechazado,linkedin,secundaria,12.0,9
+751,2026-02-23,entrevista,página web,no especificado,18.0,9
+752,2026-03-24,aceptado,computrabajo,universitario,5.0,8
+755,2026-02-18,entrevista,linkedin,secundaria,2.0,8
+757,2026-03-17,entrevista,linkedin,secundaria,12.0,8
+758,2026-03-29,aceptado,referencia,tecnico,9.0,6
+759,2026-02-26,postulado,facebook,secundaria,13.0,1
+760,2026-03-25,en revisión,referencia,tecnico,2.0,10
+765,2026-02-13,aceptado,referencia,no especificado,18.0,4
+767,2026-03-02,aceptado,linkedin,no especificado,4.0,3
+768,2026-03-31,aceptado,facebook,no especificado,1.0,4
+769,2026-02-26,aceptado,referencia,no especificado,15.0,3
+771,2026-03-20,entrevista,facebook,secundaria,4.0,3
+772,2026-02-27,postulado,facebook,secundaria,17.0,7
+773,2026-03-24,en revisión,computrabajo,maestria,12.0,8
+775,2026-03-22,en revisión,página web,no especificado,16.0,2
+776,2026-04-04,rechazado,linkedin,maestria,7.0,8
+777,2026-03-02,en revisión,facebook,maestria,2.0,8
+781,2026-04-10,rechazado,página web,secundaria,12.0,7
+783,2026-03-04,en revisión,computrabajo,tecnico,2.0,10
+784,2026-03-30,en revisión,linkedin,maestria,14.0,5
+785,2026-03-18,rechazado,linkedin,no especificado,14.0,7
+787,2026-02-28,aceptado,página web,no especificado,19.0,10
+789,2026-02-10,en revisión,página web,secundaria,10.0,3
+790,2026-04-01,rechazado,computrabajo,maestria,17.0,1
+792,2026-03-19,aceptado,página web,no especificado,8.0,3
+794,2026-03-19,rechazado,facebook,maestria,16.0,8
+796,2026-03-04,entrevista,facebook,universitario,1.0,5
+797,2026-02-18,postulado,página web,universitario,3.0,3
+799,2026-03-13,rechazado,linkedin,no especificado,8.0,3
+800,2026-03-17,en revisión,linkedin,tecnico,14.0,2
+801,2026-03-17,postulado,referencia,no especificado,6.0,1
+802,2026-02-24,rechazado,referencia,maestria,5.0,4
+803,2026-03-09,en revisión,facebook,universitario,12.0,7
+804,2026-04-06,aceptado,facebook,maestria,5.0,2
+805,2026-02-22,entrevista,facebook,tecnico,10.0,8
+807,2026-03-19,en revisión,facebook,tecnico,7.0,2
+810,2026-03-22,entrevista,facebook,universitario,14.0,7
+811,2026-03-01,en revisión,facebook,secundaria,7.0,8
+813,2026-02-24,en revisión,linkedin,maestria,3.0,10
+815,2026-03-18,aceptado,facebook,maestria,20.0,6
+817,2026-02-10,postulado,linkedin,secundaria,10.0,6
+818,2026-02-16,aceptado,facebook,tecnico,19.0,1
+820,2026-02-17,rechazado,facebook,tecnico,6.0,6
+821,2026-02-28,aceptado,computrabajo,no especificado,11.0,5
+822,2026-02-18,entrevista,facebook,secundaria,1.0,6
+823,2026-04-03,postulado,linkedin,tecnico,17.0,10
+826,2026-03-28,aceptado,linkedin,universitario,8.0,1
+829,2026-03-01,postulado,computrabajo,no especificado,11.0,1
+832,2026-02-11,en revisión,facebook,tecnico,14.0,9
+833,2026-02-24,en revisión,linkedin,maestria,11.0,6
+836,2026-04-10,entrevista,facebook,universitario,13.0,8
+837,2026-03-07,rechazado,linkedin,secundaria,7.0,7
+838,2026-03-03,postulado,facebook,tecnico,19.0,3
+839,2026-02-14,en revisión,referencia,no especificado,10.0,6
+841,2026-02-11,en revisión,computrabajo,secundaria,8.0,7
+842,2026-02-17,postulado,linkedin,tecnico,10.0,8
+844,2026-03-09,aceptado,computrabajo,no especificado,20.0,3
+845,2026-03-12,rechazado,linkedin,universitario,8.0,7
+848,2026-03-15,postulado,linkedin,no especificado,19.0,4
+850,2026-03-17,aceptado,computrabajo,tecnico,6.0,1
+851,2026-04-09,rechazado,página web,no especificado,7.0,5
+852,2026-02-22,entrevista,referencia,secundaria,19.0,7
+853,2026-02-15,en revisión,referencia,tecnico,3.0,4
+855,2026-02-26,entrevista,linkedin,no especificado,7.0,1
+857,2026-02-15,postulado,facebook,universitario,20.0,4
+859,2026-03-13,aceptado,linkedin,secundaria,9.0,5
+860,2026-02-15,rechazado,facebook,universitario,6.0,5
+863,2026-04-01,entrevista,linkedin,secundaria,3.0,9
+865,2026-03-31,entrevista,linkedin,tecnico,18.0,2
+868,2026-02-24,postulado,linkedin,no especificado,14.0,4
+869,2026-03-05,en revisión,computrabajo,no especificado,16.0,4
+872,2026-03-24,en revisión,facebook,universitario,14.0,3
+874,2026-03-03,postulado,facebook,no especificado,6.0,8
+877,2026-02-12,aceptado,página web,no especificado,12.0,2
+878,2026-03-07,aceptado,computrabajo,universitario,8.0,2
+879,2026-02-23,entrevista,facebook,no especificado,15.0,9
+880,2026-03-24,en revisión,página web,tecnico,10.0,2
+881,2026-03-27,aceptado,facebook,no especificado,19.0,1
+883,2026-03-22,postulado,facebook,tecnico,2.0,9
+885,2026-02-27,postulado,referencia,no especificado,17.0,2
+886,2026-03-01,entrevista,linkedin,universitario,20.0,9
+887,2026-04-10,en revisión,facebook,secundaria,8.0,3
+888,2026-02-13,aceptado,página web,maestria,2.0,1
+892,2026-03-07,rechazado,linkedin,no especificado,14.0,6
+893,2026-03-12,aceptado,linkedin,secundaria,1.0,2
+895,2026-04-01,aceptado,facebook,no especificado,12.0,8
+896,2026-03-30,aceptado,linkedin,no especificado,1.0,3
+898,2026-02-28,postulado,facebook,no especificado,4.0,6
+899,2026-03-20,postulado,facebook,tecnico,17.0,3
+903,2026-02-25,postulado,facebook,no especificado,10.0,5
+904,2026-02-16,entrevista,linkedin,tecnico,1.0,4
+905,2026-02-18,postulado,linkedin,no especificado,14.0,1
+908,2026-02-12,en revisión,linkedin,tecnico,5.0,6
+909,2026-02-20,rechazado,computrabajo,universitario,19.0,5
+910,2026-02-11,postulado,página web,no especificado,16.0,2
+916,2026-03-22,entrevista,linkedin,secundaria,14.0,6
+917,2026-02-18,aceptado,linkedin,secundaria,3.0,5
+921,2026-04-02,entrevista,computrabajo,maestria,9.0,3
+922,2026-03-21,entrevista,linkedin,maestria,13.0,2
+923,2026-03-17,en revisión,facebook,universitario,11.0,6
+924,2026-04-06,aceptado,referencia,no especificado,9.0,7
+925,2026-03-09,en revisión,computrabajo,universitario,5.0,9
+927,2026-02-23,en revisión,computrabajo,tecnico,13.0,6
+928,2026-04-09,aceptado,linkedin,maestria,11.0,5
+930,2026-03-14,postulado,referencia,no especificado,13.0,8
+932,2026-03-03,rechazado,facebook,no especificado,14.0,3
+934,2026-03-11,postulado,computrabajo,maestria,3.0,5
+935,2026-03-25,entrevista,computrabajo,no especificado,9.0,4
+936,2026-03-21,en revisión,facebook,tecnico,1.0,1
+937,2026-03-23,en revisión,referencia,tecnico,19.0,4
+939,2026-04-01,aceptado,página web,tecnico,6.0,10
+941,2026-03-24,rechazado,facebook,secundaria,17.0,4
+943,2026-03-28,en revisión,facebook,no especificado,17.0,9
+944,2026-02-16,aceptado,linkedin,maestria,15.0,10
+945,2026-03-01,entrevista,linkedin,secundaria,18.0,6
+946,2026-03-24,postulado,linkedin,tecnico,1.0,3
+948,2026-03-01,en revisión,facebook,secundaria,18.0,1
+949,2026-02-21,en revisión,linkedin,secundaria,6.0,7
+953,2026-03-07,en revisión,página web,maestria,7.0,2
+955,2026-02-11,postulado,referencia,universitario,2.0,6
+956,2026-04-09,rechazado,facebook,maestria,19.0,4
+957,2026-04-05,postulado,facebook,no especificado,6.0,10
+958,2026-04-03,rechazado,linkedin,universitario,10.0,4
+959,2026-03-13,en revisión,computrabajo,no especificado,2.0,10
+960,2026-02-10,rechazado,linkedin,no especificado,7.0,1
+962,2026-03-14,aceptado,facebook,maestria,4.0,2
+966,2026-03-20,entrevista,linkedin,maestria,3.0,3
+967,2026-04-08,en revisión,computrabajo,tecnico,17.0,1
+968,2026-03-11,entrevista,facebook,secundaria,17.0,5
+969,2026-03-20,rechazado,linkedin,secundaria,1.0,4
+971,2026-02-15,entrevista,linkedin,no especificado,2.0,7
+972,2026-02-27,en revisión,referencia,no especificado,6.0,1
+974,2026-03-16,en revisión,linkedin,maestria,1.0,1
+975,2026-04-01,aceptado,facebook,maestria,11.0,8
+986,2026-03-06,en revisión,linkedin,no especificado,14.0,5
+987,2026-02-28,aceptado,linkedin,maestria,6.0,6
+989,2026-04-05,postulado,facebook,tecnico,1.0,7
+992,2026-02-18,en revisión,linkedin,no especificado,19.0,2
+994,2026-02-21,rechazado,linkedin,secundaria,18.0,1
+1000,2026-03-05,aceptado,linkedin,tecnico,5.0,4
