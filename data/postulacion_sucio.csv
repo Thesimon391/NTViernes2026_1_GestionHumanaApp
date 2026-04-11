@@ -1,0 +1,22 @@
+id,fecha_postulacion,estado,medio_postulacion,nivel_estudios,id_postulante,id_vacante
+-1,2026-03-14,postulado,computrabajo,tecnico,15.0,3
+2,2026-03-15,entrevista,linkedin,maestria,,3
+3,2026-02-27, en revisión ,linkedin,universitario,11.0,1
+4,2026-02-18,entrevista,facebook,,9.0,1
+5,2026-03-13, en revisión ,facebook,universitario,19.0,8
+6,2026-03-21,en revisión,computrabajo,tecnico,12.0,0
+7,2026-03-27,aceptado,linkedin,maestria,1.0,3
+8,2026-03-31,rechazado,linked in,maestria,15.0,2
+9,31/03,en revisión,computrabajo,secundaria,10.0,10
+10,26/02,rechazado,referencia,universitario,2.0,3
+11,2026-04-06,postulado,linkedin,tecnico,19.0,9
+12,2026-02-11,postulado,pagina web,universitario,12.0,7
+13,2026-02-17,aceptado,pagina web,universitario,,3
+-1,2026-02-28,postulado,computrabajo,secundaria,3.0,3
+-5,2026-03-09,postulado,facebook,universitario,10.0,4
+16,2026-02-18,EN REVISION,facebook,universitario,1.0,1
+17,2026-03-08,rechazado,facebook,maestria,8.0,5
+18,2026-03-09,entrevista,pagina web,,16.0,3
+-5,2026-02-22,aceptado,pagina web,secundaria,16.0,5
+20,2026-03-07,rechazado,pagina web,,7.0,1
+-1,2026-03-14,postulado,computrabajo,tecnico,15.0,3

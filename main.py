@@ -1,4 +1,13 @@
 from simulacion import generar_simulacion
+import pandas as pd
+import os
 
-datos_simulados = generar_simulacion(5)
-print(datos_simulados)
+os.makedirs("data", exist_ok=True)
+
+datos_simulados = generar_simulacion(20)
+df = pd.DataFrame(datos_simulados)
+
+df.to_csv("data/postulacion_sucio.csv", index=False)
+
+print("Archivo generado: data/postulacion_sucio.csv")
+print(df.head())
