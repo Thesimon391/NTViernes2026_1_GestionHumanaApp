@@ -1,6 +1,7 @@
 import pandas as pd
 
 def explorar_postulaciones(ruta_archivo="data/postulacion_limpio.csv"):
+    
     try:
         df = pd.read_csv(ruta_archivo)
     except FileNotFoundError:
@@ -11,6 +12,9 @@ def explorar_postulaciones(ruta_archivo="data/postulacion_limpio.csv"):
 
     print("\n1. Primeras filas")
     print(df.head())
+
+    print("\n1.2 Últimas filas")
+    print(df.tail())
 
     print("\n2. Dimensiones")
     print(f"Filas: {df.shape[0]}")
@@ -63,6 +67,15 @@ def explorar_postulaciones(ruta_archivo="data/postulacion_limpio.csv"):
         fechas = pd.to_datetime(df["fecha_postulacion"], errors="coerce")
         print("Fecha mínima:", fechas.min())
         print("Fecha máxima:", fechas.max())
+
+    columnas_numericas = df.select_dtypes(include=["int64", "float64"]).columns.tolist()
+    columnas_categoricas = df.select_dtypes(include=["object"]).columns.tolist()
+
+    print("\n16. Columnas numéricas")
+    print(columnas_numericas)
+
+    print("\n17. Columnas categóricas")
+    print(columnas_categoricas)
 
 
 if __name__ == "__main__":
