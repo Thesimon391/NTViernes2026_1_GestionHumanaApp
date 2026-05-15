@@ -1,0 +1,21 @@
+id,application_date,status,application_channel,education_level,candidate_id,vacancy_id
+1,2026-03-24,under review,linked in,university,18.0,3
+2,2026-05-08,UNDER REVIEW,computrabajo,high school,14.0,10
+3,2026-04-05,interview,facebook,university,6.0,10
+4,2026-03-21,under review,website,technical,12.0,0
+5,2026-04-13,under review,facebook,master,3.0,2
+6,2026-04-10,under review,linked in,master,18.0,9
+7,2026-04-28,interview,facebook,technical,13.0,4
+8,2026-04-09,UNDER REVIEW,computrabajo,technical,11.0,9
+9,04/04,rejected,facebook,technical,17.0,7
+10,2026-03-24,under review,linked in,technical,1.0,1
+11,10/05,under review,linkedin,master,8.0,6
+12,2026-03-24, under review ,website,master,2.0,8
+13,2026-05-12,accepted,facebook,,19.0,7
+14,2026-04-29,accepted,facebook,,13.0,10
+15,2026-03-28,applied,facebook,high school,,9
+16,2026-03-18,accepted,website,high school,,1
+17,2026-04-11,rejected,referral,university,,8
+18,2026-05-09,rejected,facebook,technical,7.0,0
+19,2026-03-22,interview,linkedin,technical,13.0,10
+0,2026-03-26,under review,linkedin,university,13.0,6
